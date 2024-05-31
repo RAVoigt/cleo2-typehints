@@ -1,0 +1,7 @@
+.venv*
+.win_venv*
+__pycache__/
+*.txt
+*.log
+*.code-workspace
+*.vscode/
