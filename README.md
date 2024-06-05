@@ -25,7 +25,7 @@ Modified example from Cleo's [README.md](https://github.com/python-poetry/cleo/b
 from cleo.helpers import argument, option
 
 # Instead of `from cleo.commands.command import Command`
-from cleo_typehints import TypeHintedCommand
+from typehints_cleo2 import TypeHintedCommand
 
 
 # use TypeHintedCommand as a drop-in replacement for cleo's Command class
