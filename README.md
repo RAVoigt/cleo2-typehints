@@ -8,6 +8,16 @@ This library adds type-hinted, type-enforced wrappers for these methods as a hol
 
 **If Cleo 3.x is out by the time you're reading this: You should probably be using that instead!**
 
+# PyPi
+https://pypi.org/project/typehints-cleo2/
+
+# Installation
+### With Poetry:
+`poetry add typehints_cleo2`
+
+### With pip:
+`pip install typehints_cleo2`
+
 # Example Usage
 Modified example from Cleo's [README.md](https://github.com/python-poetry/cleo/blob/cca07a75f8e8cc9095221ab6e3e246baedaecf31/README.md?plain=1#L18)
 
