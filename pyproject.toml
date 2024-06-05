@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cleo2_typehints"
+name = "typehints_cleo2"
 version = "0.0.1a"
 description = "Type-Hinted, Type-Enforced classes for cleo 2.x"
 authors = ["Rob Voigt <code@ravoigt.com>"]
@@ -10,8 +10,8 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [project.urls]
-Homepage = "https://github.com/RAVoigt/cleo2-typehints"
-Repository = "https://github.com/RAVoigt/cleo2-typehints"
+Homepage = "https://github.com/RAVoigt/typehints_cleo2"
+Repository = "https://github.com/RAVoigt/typehints_cleo2"
 
 # ================================
 # Tools etc.

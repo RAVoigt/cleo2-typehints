@@ -1,6 +1,6 @@
 import pytest
 
-from cleo2_typehints import to_bool
+from typehints_cleo2 import to_bool
 
 
 def test_to_bool_none():

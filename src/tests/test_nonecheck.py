@@ -1,6 +1,6 @@
 import pytest
 
-from cleo2_typehints.utils import nonecheck
+from typehints_cleo2.utils import nonecheck
 
 
 def test_nonecheck_value_not_none():

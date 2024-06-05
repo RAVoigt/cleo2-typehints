@@ -1,6 +1,6 @@
 import pytest
 
-from cleo2_typehints.utils import typecheck
+from typehints_cleo2.utils import typecheck
 
 
 def test_typecheck_value_none_allow_none_true():
